@@ -1,3 +1,6 @@
 puerta
 ventana
 sillon
+tele
+cama
+mesa
